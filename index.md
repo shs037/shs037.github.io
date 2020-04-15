@@ -7,7 +7,6 @@ Email: shs037 at eng dot ucsd dot edu
 I got my PhD from [UC San Diego](http://www.cs.ucsd.edu/) in Machine Learning and Differential Privacy under the supervision of [Prof. Kamalika Chaudhuri](http://cseweb.ucsd.edu/~kamalika/). Before joining UCSD, I obtained my BSc degree in Mathematics and Computer Science from [The Hong Kong University of Science and Technology](http://www.ust.hk).
 
 I work at [Google Brain](https://research.google/teams/brain/).
-![](./ss-photo.jpg)
 
 ## Publications
 
