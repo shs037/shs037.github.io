@@ -10,14 +10,14 @@ I work at [Google Brain](https://research.google/teams/brain/).
 
 ## Publications
 
-* Characterizing Private Clipped Gradient Descent on Convex Generalized Linear Problems [[pdf]][https://arxiv.org/abs/2006.06783]
+* Characterizing Private Clipped Gradient Descent on Convex Generalized Linear Problems [[pdf]](https://arxiv.org/abs/2006.06783)
 **Shuang Song**, Om Thakkar, and Abhradeep Thakurta
 
-* Tempered sigmoid activations for deep learning with differential privacy [[pdf]][https://arxiv.org/abs/2007.14191]
+* Tempered sigmoid activations for deep learning with differential privacy [[pdf]](https://arxiv.org/abs/2007.14191)
 Nicolas Papernot, Abhradeep Thakurta, **Shuang Song**, Steve Chien, and Úlfar Erlingsson
 AAAI Conference on Artificial Intelligence, 2021
 
-* The Flajolet-Martin Sketch Itself Preserves Differential Privacy: Private Counting with Minimal Space [[pdf]][https://proceedings.neurips.cc/paper/2020/file/e3019767b1b23f82883c9850356b71d6-Paper.pdf] [[code]](https://github.com/google-research/privateFM)
+* The Flajolet-Martin Sketch Itself Preserves Differential Privacy: Private Counting with Minimal Space [[pdf]](https://proceedings.neurips.cc/paper/2020/file/e3019767b1b23f82883c9850356b71d6-Paper.pdf) [[code]](https://github.com/google-research/privateFM)
 Adam Smith, **Shuang Song**, and Abhradeep Thakurta
 Neural Information Processing Systems (NeurIPS), 2020
 
