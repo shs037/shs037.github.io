@@ -10,8 +10,35 @@ I work at [Google Brain](https://research.google/teams/brain/).
 
 ## Publications
 
-* Characterizing Private Clipped Gradient Descent on Convex Generalized Linear Problems [[pdf]](https://arxiv.org/abs/2006.06783)
-**Shuang Song**, Om Thakkar, and Abhradeep Thakurta
+* EANA: Reducing Privacy Risk on Large-scale Recommendation Models
+Devora Berlowitz, Lin Ning, Mei Chen, QiQi Xue, **Shuang Song**, Steve Chien
+
+* Public data-assisted mirror descent for private model training [[pdf]](https://proceedings.mlr.press/v162/amid22a/amid22a.pdf)
+Ehsan Amid, Arun Ganesh, Rajiv Mathews, Swaroop Ramaswamy, **Shuang Song**, Thomas Steinke, Vinith M Suriyakumar, Om Thakkar, Abhradeep Thakurta
+ICML 2022
+
+* Membership inference attacks from first principles [[pdf]](https://arxiv.org/pdf/2112.03570)
+Nicholas Carlini, Steve Chien, Milad Nasr, **Shuang Song**, Andreas Terzis, Florian Tramer
+S&P 2022
+
+* Toward training at imagenet scale with differential privacy [[pdf]](https://arxiv.org/pdf/2201.12328)
+Alexey Kurakin, Steve Chien, **Shuang Song**, Roxana Geambasu, Andreas Terzis, Abhradeep Thakurta
+
+* Differentially Private Model Personalization [[pdf]](https://proceedings.neurips.cc/paper/2021/file/f8580959e35cb0934479bb007fb241c2-Paper.pdf)
+Prateek Jain, John Rush, Adam Smith, **Shuang Song**, Abhradeep Guha Thakurta
+NeurIPS 2021
+
+* Private Alternating Least Squares: Practical Private Matrix Completion with Tighter Rates [[pdf]](http://proceedings.mlr.press/v139/chien21a/chien21a.pdf)
+Steve Chien, Prateek Jain, Walid Krichene, Steffen Rendle, **Shuang Song**, Abhradeep Thakurta, Li Zhang
+ICML 2021
+
+* Practical and private (deep) learning without sampling or shuffling [[pdf]](https://arxiv.org/pdf/2103.00039) [[code]](https://github.com/google-research/DP-FTRL)
+Peter Kairouz, Brendan McMahan, **Shuang Song**, Om Thakkar, Abhradeep Thakurta, Zheng Xu
+ICML 2021
+
+* Evading the curse of dimensionality in unconstrained private GLMs [[pdf]](https://arxiv.org/abs/2006.06783)
+**Shuang Song**, Thomas Steinke, Om Thakkar, and Abhradeep Thakurta
+AISTATS, 2021
 
 * Tempered sigmoid activations for deep learning with differential privacy [[pdf]](https://arxiv.org/abs/2007.14191)
 Nicolas Papernot, Abhradeep Thakurta, **Shuang Song**, Steve Chien, and Úlfar Erlingsson
